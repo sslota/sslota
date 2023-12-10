@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
-<h3 align="center">Aspiring third-year Computer Science student at AGH University of Science and Technology</h3>
+<h3 align="center">Aspiring fourth-year Computer Science student at AGH University of Science and Technology</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [koluniowe zakupki](https://github.com/Koluniowe-zakupki/koluniowe-zakupki)
