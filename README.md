@@ -9,6 +9,9 @@
 - 📫 How to reach me **szymonslota01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<a href="https://www.linkedin.com/in/szymon-slota" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" width="40" height="40"/> </a>
+
 <p align="left">
 </p>
 
