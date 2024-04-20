@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [koluniowe zakupki](https://github.com/Koluniowe-zakupki/koluniowe-zakupki)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **szymonslota01@gmail.com**
 
